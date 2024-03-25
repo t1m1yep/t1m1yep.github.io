@@ -1,0 +1,114 @@
+body {
+  background-color:black;
+}
+
+.container {
+  display: flex; 
+  align-items: center; 
+  justify-content: center;
+}
+
+.t1m1yep {
+  width: 400px;
+  height: 300px;
+  position: absolute;
+  top: 5%;
+}
+
+.t1m1yep h1 {
+  color: palevioletred;
+}
+
+.t1m1yep h2 {
+  color: hotpink;
+}
+
+.t1m1yep a {
+  color: hotpink;
+}
+
+.languageselection {
+  position: absolute;
+  top: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+.languageselection a {
+  font-size: 50px;
+  color: hotpink;
+}
+
+.translation {
+  width: 650px;
+  height: 360px;
+  position: absolute;
+  bottom: 65%;
+  justify-content:center;
+}
+
+.translation h1 {
+  color: pink;
+  font-size: 80px;
+}
+
+.translation h3 {
+  color: pink;
+  font-size: 50px;
+}
+
+.leftpanel {
+  position: absolute;
+  top: 30%;
+}
+
+.leftpanel a {
+  color:thistle;
+  font-size: 50px;
+}
+
+.contacts {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 45%;
+  top: 30%;
+}
+
+.contacts h2 {
+  color: tomato;
+  font-size: 30px;
+}
+
+.contacts h4 {
+  color:darkkhaki;
+  font-size: 20px;
+}
+
+.contacts a {
+  color: tomato;
+}
+
+.music {
+  position: absolute;
+  width: 300px;
+  left: 40%;
+  top: 30%;
+}
+
+.music h1 {
+  color:darksalmon;
+}
+
+.music a {
+  color: coral;
+  text-decoration: solid;
+}
+
+.music li {
+  list-style-type:circle;
+}
+
+.music li::marker {
+  color: goldenrod;
+}
