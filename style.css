@@ -9,8 +9,8 @@ body {
 }
 
 .t1m1yep {
-  width: 400px;
-  height: 300px;
+  width: 40vh;
+  height: 30vh;
   position: absolute;
   top: 2%;
 }
@@ -30,18 +30,18 @@ body {
 .languageselection {
   position: absolute;
   top: 50%;
-  width: 200px;
-  height: 200px;
+  width: 20vh;
+  height: 20vh;
 }
 
 .languageselection a {
-  font-size: 50px;
+  font-size: 5vh;
   color: hotpink;
 }
 
 .translation {
-  width: 650px;
-  height: 360px;
+  width: 65vh;
+  height: 36vh;
   position: absolute;
   bottom: 65%;
   justify-content:center;
@@ -49,12 +49,12 @@ body {
 
 .translation h1 {
   color: pink;
-  font-size: 80px;
+  font-size: 8vh;
 }
 
 .translation h3 {
   color: pink;
-  font-size: 50px;
+  font-size: 5vh;
 }
 
 .leftpanel {
@@ -64,12 +64,12 @@ body {
 
 .leftpanel a {
   color:thistle;
-  font-size: 50px;
+  font-size: 5vh;
 }
 
 .contacts {
-  width: 300px;
-  height: 300px;
+  width: 30vh;
+  height: 30vh;
   position: absolute;
   left: 45%;
   top: 30%;
@@ -77,12 +77,12 @@ body {
 
 .contacts h2 {
   color: tomato;
-  font-size: 30px;
+  font-size: 3vh;
 }
 
 .contacts h4 {
   color:darkkhaki;
-  font-size: 20px;
+  font-size: 2vh;
 }
 
 .contacts a {
@@ -91,7 +91,7 @@ body {
 
 .music {
   position: absolute;
-  width: 300px;
+  width: 30vh;
   left: 40%;
   top: 5%;
 }
