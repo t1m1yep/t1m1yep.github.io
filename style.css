@@ -92,7 +92,7 @@ body {
 .music {
   position: absolute;
   width: 30vh;
-  left: 40%;
+  right: 85%;
   top: 5%;
 }
 
@@ -110,5 +110,29 @@ body {
 }
 
 .music li::marker {
+  color: goldenrod;
+}
+
+.music2 {
+  position: absolute;
+  width: 30vh;
+  right: 65%;
+  top: 5%;
+}
+
+.music2 h1 {
+  color:darksalmon;
+}
+
+.music2 a {
+  color: coral;
+  text-decoration: solid;
+}
+
+.music2 li {
+  list-style-type:circle;
+}
+
+.music2 li::marker {
   color: goldenrod;
 }
